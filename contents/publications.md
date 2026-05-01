@@ -12,6 +12,6 @@
 
 - "Likelihood Ratio Test for Membership Inference in Large Language Models", J. Sun, W. Zhong, and Z. Cai, manuscript in preparation
 
-- "To Split or Not to Split: Valid Inference and Adaptive Stopping for Graph Segmentation", J. Chen, J. Sun<sup>*</sup>, and J. Liu
+- "To Split or Not to Split: Valid Inference and Adaptive Stopping for Graph Segmentation", J. Chen, J. Sun<sup>*</sup>, and J. Liu, manuscript in preparation
 
 
