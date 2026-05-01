@@ -1,1 +1,1 @@
-- National Scholarship, 2021.
+- National Scholarship for Postgraduate students, 2021.
