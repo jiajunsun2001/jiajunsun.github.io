@@ -1,5 +1,5 @@
 
-I'm currently pursuing a PhD's degree in Statistics at the School of Economics, Xiamen University.
+I'm currently pursuing a PhD's degree in Statistics at Department of Statistics and Data Science, the School of Economics, Xiamen University. I am advised by Prof. Wei Zhong.
 
 #### Email  
 <code>jiajunsun2001@outlook.com</code>  
