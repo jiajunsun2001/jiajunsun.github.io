@@ -8,10 +8,10 @@
 
 - "Conditional Selective Inference for Selected Group Structures in Panel Data", C. Wan, **J. Sun**<sup>*</sup>, and X. Xu, under review
 
-- "Differentially Private Gaussian Graphical Model: Optimality, Algorithm and FDR Control", Z. Cai, W. Zhong, and **J. Sun**<sup>†</sup>, manuscript in preparation
+- "Differentially Private Gaussian Graphical Model: Optimality, Algorithm and FDR Control", Z. Cai, W. Zhong, and **J. Sun**<sup>†</sup>, under review
 
-- "Likelihood Ratio Test for Membership Inference in Large Language Models", **J. Sun**, W. Zhong, and Z. Cai, manuscript in preparation
-
+- "Likelihood Ratio Test for Membership Inference in Large Language Models", **J. Sun**, W. Zhong, and Z. Cai, under review
+  
 - "To Split or Not to Split: Valid Inference and Adaptive Stopping for Graph Segmentation", J. Chen, **J. Sun**<sup>*</sup>, and J. Liu, manuscript in preparation
 
 
