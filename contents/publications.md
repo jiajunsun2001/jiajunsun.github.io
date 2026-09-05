@@ -14,4 +14,4 @@
   
 - "To Split or Not to Split: Valid Inference and Adaptive Stopping for Graph Segmentation", J. Chen, **J. Sun**<sup>*</sup>, and J. Liu, manuscript in preparation
 
-
+- "Token-Level Likelihood-Array Regression for Membership Inference and AI-Generated Text Detection", **J. Sun**, and Z. Cai, under review
